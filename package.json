@@ -1,0 +1,19 @@
+{
+  "name": "@cloudinertia/devkit-lib",
+  "version": "0.0.1",
+  "description": "A development toolkit library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebduhon/cloudinertia-devkit-lib.git"
+  },
+  "author": "Eli B. Duhon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebduhon/cloudinertia-devkit-lib/issues"
+  },
+  "homepage": "https://github.com/ebduhon/cloudinertia-devkit-lib#readme"
+}
